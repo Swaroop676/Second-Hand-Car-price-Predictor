@@ -1,0 +1,361 @@
+company,model,year,km_driven,fuel,transmission,owner,engine_cc,max_power_bhp,seats,selling_price_inr,data_source
+Maruti,Swift,2022,33184,Petrol,Automatic,First Owner,1197,88,5,509500,synthetic_demo
+Maruti,Baleno,2013,181392,Petrol,Automatic,First Owner,1197,89,5,174100,synthetic_demo
+Maruti,Dzire,2015,136475,Petrol,Manual,Second Owner,1197,89,5,218700,synthetic_demo
+Maruti,Wagon R,2018,61787,CNG,Automatic,Second Owner,998,66,5,272700,synthetic_demo
+Hyundai,i20,2024,45853,Diesel,Automatic,First Owner,1197,87,5,843600,synthetic_demo
+Hyundai,Creta,2024,92236,Petrol,Manual,First Owner,1497,113,5,1078900,synthetic_demo
+Honda,City,2017,162263,Diesel,Manual,Second Owner,1498,119,5,411900,synthetic_demo
+Tata,Nexon,2018,24656,Diesel,Automatic,First Owner,1199,118,5,717700,synthetic_demo
+Tata,Punch,2012,177346,Petrol,Automatic,Fourth & Above,1199,87,5,149500,synthetic_demo
+Toyota,Innova,2025,30476,Diesel,Automatic,First Owner,2393,148,7,2246000,synthetic_demo
+Mahindra,XUV300,2014,101040,Diesel,Manual,Second Owner,1497,115,5,399200,synthetic_demo
+Kia,Seltos,2022,173878,Petrol,Manual,First Owner,1497,113,5,696400,synthetic_demo
+Maruti,Swift,2019,103471,CNG,Manual,Second Owner,1197,88,5,313500,synthetic_demo
+Maruti,Baleno,2024,18663,Petrol,Manual,Second Owner,1197,89,5,697200,synthetic_demo
+Maruti,Dzire,2013,59307,CNG,Manual,Second Owner,1197,89,5,217700,synthetic_demo
+Maruti,Wagon R,2022,124285,Petrol,Automatic,First Owner,998,66,5,390000,synthetic_demo
+Hyundai,i20,2020,72876,Diesel,Automatic,First Owner,1197,87,5,635000,synthetic_demo
+Hyundai,Creta,2014,137569,Diesel,Manual,Second Owner,1497,113,5,412100,synthetic_demo
+Honda,City,2014,168481,Petrol,Automatic,Second Owner,1498,119,5,305100,synthetic_demo
+Tata,Nexon,2021,126696,Diesel,Manual,Second Owner,1199,118,5,558000,synthetic_demo
+Tata,Punch,2020,73946,CNG,Manual,First Owner,1199,87,5,445800,synthetic_demo
+Toyota,Innova,2012,73045,Petrol,Manual,Third Owner,2393,148,7,473900,synthetic_demo
+Mahindra,XUV300,2022,137080,Petrol,Manual,First Owner,1497,115,5,673300,synthetic_demo
+Kia,Seltos,2024,143029,Petrol,Automatic,First Owner,1497,113,5,955400,synthetic_demo
+Maruti,Swift,2017,84612,Petrol,Manual,First Owner,1197,88,5,288800,synthetic_demo
+Maruti,Baleno,2013,26453,CNG,Manual,Fourth & Above,1197,89,5,223700,synthetic_demo
+Maruti,Dzire,2014,37657,CNG,Manual,First Owner,1197,89,5,288600,synthetic_demo
+Maruti,Wagon R,2018,59521,Petrol,Automatic,First Owner,998,66,5,332300,synthetic_demo
+Hyundai,i20,2017,118845,Diesel,Manual,First Owner,1197,87,5,342900,synthetic_demo
+Hyundai,Creta,2012,158221,Petrol,Manual,First Owner,1497,113,5,321800,synthetic_demo
+Honda,City,2012,64015,Petrol,Manual,Third Owner,1498,119,5,301500,synthetic_demo
+Tata,Nexon,2015,77001,Diesel,Manual,First Owner,1199,118,5,449200,synthetic_demo
+Tata,Punch,2021,155050,CNG,Manual,Second Owner,1199,87,5,388100,synthetic_demo
+Toyota,Innova,2015,28726,Petrol,Automatic,First Owner,2393,148,7,860300,synthetic_demo
+Mahindra,XUV300,2025,18200,Petrol,Manual,First Owner,1497,115,5,1252600,synthetic_demo
+Kia,Seltos,2025,32644,Petrol,Manual,First Owner,1497,113,5,1441200,synthetic_demo
+Maruti,Swift,2018,52100,CNG,Automatic,First Owner,1197,88,5,380400,synthetic_demo
+Maruti,Baleno,2019,148264,Petrol,Manual,Second Owner,1197,89,5,317200,synthetic_demo
+Maruti,Dzire,2012,28448,Petrol,Manual,First Owner,1197,89,5,239200,synthetic_demo
+Maruti,Wagon R,2025,109130,Petrol,Manual,First Owner,998,66,5,510100,synthetic_demo
+Hyundai,i20,2016,123277,Diesel,Automatic,Second Owner,1197,87,5,342700,synthetic_demo
+Hyundai,Creta,2024,149691,Diesel,Manual,First Owner,1497,113,5,903900,synthetic_demo
+Honda,City,2012,155828,Petrol,Automatic,First Owner,1498,119,5,296700,synthetic_demo
+Tata,Nexon,2020,143231,Petrol,Manual,Fourth & Above,1199,118,5,393000,synthetic_demo
+Tata,Punch,2014,21962,Petrol,Manual,First Owner,1199,87,5,346200,synthetic_demo
+Toyota,Innova,2021,68543,Petrol,Manual,First Owner,2393,148,7,1278400,synthetic_demo
+Mahindra,XUV300,2020,86934,Diesel,Manual,Second Owner,1497,115,5,670600,synthetic_demo
+Kia,Seltos,2016,107752,Petrol,Automatic,First Owner,1497,113,5,615600,synthetic_demo
+Maruti,Swift,2013,6441,CNG,Manual,First Owner,1197,88,5,230300,synthetic_demo
+Maruti,Baleno,2016,38722,CNG,Manual,Third Owner,1197,89,5,299800,synthetic_demo
+Maruti,Dzire,2014,118867,CNG,Manual,Second Owner,1197,89,5,203400,synthetic_demo
+Maruti,Wagon R,2022,31154,Petrol,Automatic,First Owner,998,66,5,462500,synthetic_demo
+Hyundai,i20,2020,44749,Diesel,Automatic,Second Owner,1197,87,5,618500,synthetic_demo
+Hyundai,Creta,2015,184223,Diesel,Automatic,First Owner,1497,113,5,441500,synthetic_demo
+Honda,City,2012,28195,Diesel,Automatic,First Owner,1498,119,5,439500,synthetic_demo
+Tata,Nexon,2014,171015,Diesel,Manual,Second Owner,1199,118,5,272900,synthetic_demo
+Tata,Punch,2018,151038,Petrol,Manual,First Owner,1199,87,5,332600,synthetic_demo
+Toyota,Innova,2014,147023,Petrol,Automatic,Second Owner,2393,148,7,493900,synthetic_demo
+Mahindra,XUV300,2014,14965,Diesel,Automatic,Third Owner,1497,115,5,504600,synthetic_demo
+Kia,Seltos,2025,14458,Diesel,Manual,Second Owner,1497,113,5,1527000,synthetic_demo
+Maruti,Swift,2017,150770,CNG,Manual,Third Owner,1197,88,5,187300,synthetic_demo
+Maruti,Baleno,2014,50413,CNG,Manual,First Owner,1197,89,5,304300,synthetic_demo
+Maruti,Dzire,2024,111928,Petrol,Automatic,First Owner,1197,89,5,584800,synthetic_demo
+Maruti,Wagon R,2018,14151,CNG,Manual,First Owner,998,66,5,359200,synthetic_demo
+Hyundai,i20,2017,84003,Petrol,Manual,First Owner,1197,87,5,376100,synthetic_demo
+Hyundai,Creta,2017,77034,Petrol,Automatic,First Owner,1497,113,5,673400,synthetic_demo
+Honda,City,2022,144565,Diesel,Manual,First Owner,1498,119,5,775000,synthetic_demo
+Tata,Nexon,2014,156198,Diesel,Manual,First Owner,1199,118,5,301800,synthetic_demo
+Tata,Punch,2023,86228,CNG,Manual,First Owner,1199,87,5,592600,synthetic_demo
+Toyota,Innova,2016,15635,Diesel,Manual,First Owner,2393,148,7,1016300,synthetic_demo
+Mahindra,XUV300,2022,179801,Petrol,Automatic,First Owner,1497,115,5,696400,synthetic_demo
+Kia,Seltos,2017,167356,Diesel,Manual,Second Owner,1497,113,5,455600,synthetic_demo
+Maruti,Swift,2016,178821,CNG,Automatic,First Owner,1197,88,5,190500,synthetic_demo
+Maruti,Baleno,2014,54289,CNG,Automatic,Second Owner,1197,89,5,299100,synthetic_demo
+Maruti,Dzire,2021,153187,CNG,Automatic,First Owner,1197,89,5,345800,synthetic_demo
+Maruti,Wagon R,2016,59098,CNG,Automatic,First Owner,998,66,5,262400,synthetic_demo
+Hyundai,i20,2015,138001,Diesel,Manual,Second Owner,1197,87,5,261400,synthetic_demo
+Hyundai,Creta,2022,169921,Diesel,Manual,Second Owner,1497,113,5,728100,synthetic_demo
+Honda,City,2022,85374,Petrol,Manual,First Owner,1498,119,5,780800,synthetic_demo
+Tata,Nexon,2019,164241,Petrol,Automatic,First Owner,1199,118,5,482400,synthetic_demo
+Tata,Punch,2015,186545,CNG,Automatic,First Owner,1199,87,5,212200,synthetic_demo
+Toyota,Innova,2023,5453,Petrol,Automatic,First Owner,2393,148,7,1953100,synthetic_demo
+Mahindra,XUV300,2023,139779,Diesel,Manual,First Owner,1497,115,5,849200,synthetic_demo
+Kia,Seltos,2013,123658,Petrol,Automatic,Second Owner,1497,113,5,424200,synthetic_demo
+Maruti,Swift,2021,87177,CNG,Automatic,Second Owner,1197,88,5,397000,synthetic_demo
+Maruti,Baleno,2014,128433,CNG,Automatic,Second Owner,1197,89,5,236200,synthetic_demo
+Maruti,Dzire,2016,140655,CNG,Manual,First Owner,1197,89,5,222100,synthetic_demo
+Maruti,Wagon R,2016,65471,CNG,Automatic,First Owner,998,66,5,261800,synthetic_demo
+Hyundai,i20,2014,43539,Petrol,Automatic,Second Owner,1197,87,5,348000,synthetic_demo
+Hyundai,Creta,2013,112755,Diesel,Automatic,First Owner,1497,113,5,432100,synthetic_demo
+Honda,City,2015,114138,Diesel,Manual,Third Owner,1498,119,5,391200,synthetic_demo
+Tata,Nexon,2018,129037,Petrol,Automatic,First Owner,1199,118,5,483200,synthetic_demo
+Tata,Punch,2025,113843,Petrol,Automatic,First Owner,1199,87,5,673300,synthetic_demo
+Toyota,Innova,2012,105936,Diesel,Automatic,Second Owner,2393,148,7,556700,synthetic_demo
+Mahindra,XUV300,2014,167120,Petrol,Automatic,Second Owner,1497,115,5,320600,synthetic_demo
+Kia,Seltos,2013,172492,Diesel,Manual,Third Owner,1497,113,5,283200,synthetic_demo
+Maruti,Swift,2016,103379,CNG,Manual,First Owner,1197,88,5,235200,synthetic_demo
+Maruti,Baleno,2018,76943,CNG,Automatic,Second Owner,1197,89,5,376200,synthetic_demo
+Maruti,Dzire,2023,145405,Petrol,Automatic,First Owner,1197,89,5,433900,synthetic_demo
+Maruti,Wagon R,2022,14553,Petrol,Manual,First Owner,998,66,5,448200,synthetic_demo
+Hyundai,i20,2014,66533,Petrol,Automatic,Second Owner,1197,87,5,319500,synthetic_demo
+Hyundai,Creta,2015,125905,Diesel,Automatic,First Owner,1497,113,5,508900,synthetic_demo
+Honda,City,2023,34024,Petrol,Automatic,First Owner,1498,119,5,1032700,synthetic_demo
+Tata,Nexon,2016,154941,Diesel,Automatic,Third Owner,1199,118,5,322000,synthetic_demo
+Tata,Punch,2021,185040,Petrol,Manual,Second Owner,1199,87,5,336000,synthetic_demo
+Toyota,Innova,2022,161394,Petrol,Manual,First Owner,2393,148,7,998100,synthetic_demo
+Mahindra,XUV300,2017,22076,Diesel,Manual,Second Owner,1497,115,5,664900,synthetic_demo
+Kia,Seltos,2013,117645,Diesel,Automatic,Second Owner,1497,113,5,413200,synthetic_demo
+Maruti,Swift,2023,140772,CNG,Automatic,First Owner,1197,88,5,436900,synthetic_demo
+Maruti,Baleno,2021,74358,CNG,Manual,Second Owner,1197,89,5,436400,synthetic_demo
+Maruti,Dzire,2019,67927,CNG,Automatic,First Owner,1197,89,5,416500,synthetic_demo
+Maruti,Wagon R,2017,51668,CNG,Manual,First Owner,998,66,5,268400,synthetic_demo
+Hyundai,i20,2016,160278,Diesel,Manual,First Owner,1197,87,5,276000,synthetic_demo
+Hyundai,Creta,2015,110542,Diesel,Manual,Second Owner,1497,113,5,477700,synthetic_demo
+Honda,City,2019,121486,Petrol,Manual,First Owner,1498,119,5,571500,synthetic_demo
+Tata,Nexon,2015,84270,Diesel,Automatic,First Owner,1199,118,5,438700,synthetic_demo
+Tata,Punch,2023,148281,CNG,Automatic,Second Owner,1199,87,5,457400,synthetic_demo
+Toyota,Innova,2016,64434,Petrol,Manual,First Owner,2393,148,7,850900,synthetic_demo
+Mahindra,XUV300,2024,184922,Petrol,Manual,First Owner,1497,115,5,719100,synthetic_demo
+Kia,Seltos,2023,158556,Diesel,Manual,Second Owner,1497,113,5,791800,synthetic_demo
+Maruti,Swift,2017,51039,CNG,Manual,Second Owner,1197,88,5,272300,synthetic_demo
+Maruti,Baleno,2012,18293,CNG,Manual,Second Owner,1197,89,5,255400,synthetic_demo
+Maruti,Dzire,2013,7215,CNG,Automatic,First Owner,1197,89,5,278400,synthetic_demo
+Maruti,Wagon R,2012,70185,CNG,Manual,Second Owner,998,66,5,157800,synthetic_demo
+Hyundai,i20,2013,155262,Petrol,Manual,First Owner,1197,87,5,220100,synthetic_demo
+Hyundai,Creta,2016,26329,Petrol,Manual,First Owner,1497,113,5,656100,synthetic_demo
+Honda,City,2021,166114,Petrol,Automatic,First Owner,1498,119,5,616800,synthetic_demo
+Tata,Nexon,2025,158278,Diesel,Automatic,First Owner,1199,118,5,769400,synthetic_demo
+Tata,Punch,2023,30013,Petrol,Manual,First Owner,1199,87,5,651200,synthetic_demo
+Toyota,Innova,2015,49564,Petrol,Manual,First Owner,2393,148,7,773300,synthetic_demo
+Mahindra,XUV300,2021,127184,Diesel,Manual,First Owner,1497,115,5,727700,synthetic_demo
+Kia,Seltos,2023,123021,Petrol,Manual,Third Owner,1497,113,5,865500,synthetic_demo
+Maruti,Swift,2022,158609,Petrol,Automatic,First Owner,1197,88,5,349300,synthetic_demo
+Maruti,Baleno,2014,73633,Petrol,Manual,First Owner,1197,89,5,285300,synthetic_demo
+Maruti,Dzire,2021,153214,CNG,Automatic,First Owner,1197,89,5,387100,synthetic_demo
+Maruti,Wagon R,2023,109515,CNG,Automatic,First Owner,998,66,5,425800,synthetic_demo
+Hyundai,i20,2018,88494,Diesel,Manual,First Owner,1197,87,5,476900,synthetic_demo
+Hyundai,Creta,2025,154784,Petrol,Automatic,First Owner,1497,113,5,1066700,synthetic_demo
+Honda,City,2014,127338,Diesel,Automatic,First Owner,1498,119,5,405600,synthetic_demo
+Tata,Nexon,2022,132902,Petrol,Automatic,First Owner,1199,118,5,668200,synthetic_demo
+Tata,Punch,2022,31420,Petrol,Automatic,First Owner,1199,87,5,678500,synthetic_demo
+Toyota,Innova,2022,108976,Petrol,Automatic,First Owner,2393,148,7,1236200,synthetic_demo
+Mahindra,XUV300,2013,109952,Petrol,Automatic,First Owner,1497,115,5,354800,synthetic_demo
+Kia,Seltos,2017,167219,Diesel,Automatic,Second Owner,1497,113,5,475500,synthetic_demo
+Maruti,Swift,2020,38344,CNG,Automatic,Third Owner,1197,88,5,382800,synthetic_demo
+Maruti,Baleno,2012,169156,Petrol,Manual,First Owner,1197,89,5,153400,synthetic_demo
+Maruti,Dzire,2018,28434,Petrol,Manual,First Owner,1197,89,5,383300,synthetic_demo
+Maruti,Wagon R,2025,44362,CNG,Automatic,First Owner,998,66,5,572600,synthetic_demo
+Hyundai,i20,2025,130484,Diesel,Manual,First Owner,1197,87,5,658000,synthetic_demo
+Hyundai,Creta,2015,161123,Petrol,Manual,First Owner,1497,113,5,418000,synthetic_demo
+Honda,City,2018,93096,Diesel,Manual,First Owner,1498,119,5,585200,synthetic_demo
+Tata,Nexon,2021,156023,Diesel,Manual,First Owner,1199,118,5,567900,synthetic_demo
+Tata,Punch,2017,148681,CNG,Automatic,Third Owner,1199,87,5,276600,synthetic_demo
+Toyota,Innova,2023,66601,Diesel,Manual,Third Owner,2393,148,7,1336000,synthetic_demo
+Mahindra,XUV300,2017,127987,Diesel,Automatic,Fourth & Above,1497,115,5,438200,synthetic_demo
+Kia,Seltos,2022,43873,Diesel,Manual,First Owner,1497,113,5,1239800,synthetic_demo
+Maruti,Swift,2017,30309,CNG,Manual,First Owner,1197,88,5,323100,synthetic_demo
+Maruti,Baleno,2023,41789,CNG,Manual,First Owner,1197,89,5,671300,synthetic_demo
+Maruti,Dzire,2016,92751,CNG,Manual,Third Owner,1197,89,5,256500,synthetic_demo
+Maruti,Wagon R,2025,143885,CNG,Automatic,Second Owner,998,66,5,436000,synthetic_demo
+Hyundai,i20,2019,145824,Petrol,Manual,First Owner,1197,87,5,397400,synthetic_demo
+Hyundai,Creta,2016,63634,Petrol,Automatic,Fourth & Above,1497,113,5,531800,synthetic_demo
+Honda,City,2023,30347,Diesel,Manual,Second Owner,1498,119,5,1107700,synthetic_demo
+Tata,Nexon,2012,89032,Petrol,Automatic,First Owner,1199,118,5,325200,synthetic_demo
+Tata,Punch,2015,143242,CNG,Manual,First Owner,1199,87,5,224700,synthetic_demo
+Toyota,Innova,2025,104281,Petrol,Automatic,Third Owner,2393,148,7,1363000,synthetic_demo
+Mahindra,XUV300,2019,171222,Diesel,Automatic,First Owner,1497,115,5,491400,synthetic_demo
+Kia,Seltos,2024,125963,Diesel,Manual,First Owner,1497,113,5,1136600,synthetic_demo
+Maruti,Swift,2021,82421,CNG,Automatic,First Owner,1197,88,5,411700,synthetic_demo
+Maruti,Baleno,2018,130670,Petrol,Manual,First Owner,1197,89,5,319200,synthetic_demo
+Maruti,Dzire,2016,187311,CNG,Manual,Fourth & Above,1197,89,5,170400,synthetic_demo
+Maruti,Wagon R,2016,6122,Petrol,Automatic,Second Owner,998,66,5,310100,synthetic_demo
+Hyundai,i20,2024,64324,Diesel,Manual,Second Owner,1197,87,5,759600,synthetic_demo
+Hyundai,Creta,2022,176800,Petrol,Manual,Third Owner,1497,113,5,621000,synthetic_demo
+Honda,City,2016,119559,Petrol,Automatic,Second Owner,1498,119,5,415300,synthetic_demo
+Tata,Nexon,2016,89647,Diesel,Manual,First Owner,1199,118,5,478200,synthetic_demo
+Tata,Punch,2017,143159,CNG,Manual,First Owner,1199,87,5,303900,synthetic_demo
+Toyota,Innova,2019,81369,Diesel,Manual,First Owner,2393,148,7,990400,synthetic_demo
+Mahindra,XUV300,2024,63143,Diesel,Automatic,First Owner,1497,115,5,1144600,synthetic_demo
+Kia,Seltos,2016,144659,Petrol,Automatic,First Owner,1497,113,5,528200,synthetic_demo
+Maruti,Swift,2016,157238,CNG,Automatic,First Owner,1197,88,5,203300,synthetic_demo
+Maruti,Baleno,2012,166410,CNG,Manual,Second Owner,1197,89,5,158300,synthetic_demo
+Maruti,Dzire,2019,187783,CNG,Automatic,First Owner,1197,89,5,267400,synthetic_demo
+Maruti,Wagon R,2012,83787,CNG,Manual,First Owner,998,66,5,174100,synthetic_demo
+Hyundai,i20,2014,105881,Diesel,Automatic,Second Owner,1197,87,5,303700,synthetic_demo
+Hyundai,Creta,2020,113871,Petrol,Automatic,Second Owner,1497,113,5,776100,synthetic_demo
+Honda,City,2021,110985,Diesel,Manual,Second Owner,1498,119,5,667200,synthetic_demo
+Tata,Nexon,2019,65895,Diesel,Manual,Fourth & Above,1199,118,5,502700,synthetic_demo
+Tata,Punch,2022,98024,Petrol,Automatic,First Owner,1199,87,5,604800,synthetic_demo
+Toyota,Innova,2025,123201,Petrol,Manual,Second Owner,2393,148,7,1406700,synthetic_demo
+Mahindra,XUV300,2012,17258,Diesel,Manual,Fourth & Above,1497,115,5,366400,synthetic_demo
+Kia,Seltos,2015,21985,Petrol,Manual,Second Owner,1497,113,5,569400,synthetic_demo
+Maruti,Swift,2024,42680,Petrol,Automatic,Third Owner,1197,88,5,509100,synthetic_demo
+Maruti,Baleno,2014,145614,CNG,Manual,First Owner,1197,89,5,224000,synthetic_demo
+Maruti,Dzire,2014,7895,CNG,Manual,Second Owner,1197,89,5,254600,synthetic_demo
+Maruti,Wagon R,2016,17736,Petrol,Automatic,First Owner,998,66,5,313100,synthetic_demo
+Hyundai,i20,2019,121512,Diesel,Manual,First Owner,1197,87,5,417600,synthetic_demo
+Hyundai,Creta,2021,15367,Diesel,Automatic,Second Owner,1497,113,5,1020900,synthetic_demo
+Honda,City,2019,109281,Diesel,Manual,First Owner,1498,119,5,669500,synthetic_demo
+Tata,Nexon,2013,25178,Diesel,Manual,First Owner,1199,118,5,403300,synthetic_demo
+Tata,Punch,2022,157449,CNG,Automatic,Fourth & Above,1199,87,5,361400,synthetic_demo
+Toyota,Innova,2019,136527,Diesel,Manual,Second Owner,2393,148,7,784500,synthetic_demo
+Mahindra,XUV300,2022,174633,Petrol,Automatic,First Owner,1497,115,5,626000,synthetic_demo
+Kia,Seltos,2017,122882,Diesel,Automatic,Second Owner,1497,113,5,569100,synthetic_demo
+Maruti,Swift,2017,178354,CNG,Automatic,Third Owner,1197,88,5,193200,synthetic_demo
+Maruti,Baleno,2019,21598,Petrol,Manual,First Owner,1197,89,5,459800,synthetic_demo
+Maruti,Dzire,2023,101687,Petrol,Manual,Second Owner,1197,89,5,483800,synthetic_demo
+Maruti,Wagon R,2017,179639,Petrol,Automatic,First Owner,998,66,5,205000,synthetic_demo
+Hyundai,i20,2024,114870,Petrol,Automatic,Second Owner,1197,87,5,636100,synthetic_demo
+Hyundai,Creta,2021,137015,Petrol,Manual,Second Owner,1497,113,5,669300,synthetic_demo
+Honda,City,2013,95780,Diesel,Manual,Second Owner,1498,119,5,364500,synthetic_demo
+Tata,Nexon,2024,116489,Petrol,Automatic,First Owner,1199,118,5,822600,synthetic_demo
+Tata,Punch,2024,84998,CNG,Automatic,First Owner,1199,87,5,714700,synthetic_demo
+Toyota,Innova,2021,176318,Diesel,Manual,First Owner,2393,148,7,929000,synthetic_demo
+Mahindra,XUV300,2012,28053,Petrol,Automatic,First Owner,1497,115,5,423300,synthetic_demo
+Kia,Seltos,2017,85693,Diesel,Manual,Third Owner,1497,113,5,544600,synthetic_demo
+Maruti,Swift,2024,165962,Petrol,Manual,First Owner,1197,88,5,404300,synthetic_demo
+Maruti,Baleno,2019,163141,CNG,Automatic,First Owner,1197,89,5,342600,synthetic_demo
+Maruti,Dzire,2013,94484,CNG,Manual,First Owner,1197,89,5,218600,synthetic_demo
+Maruti,Wagon R,2019,142132,CNG,Manual,First Owner,998,66,5,271500,synthetic_demo
+Hyundai,i20,2012,6015,Petrol,Automatic,Third Owner,1197,87,5,301400,synthetic_demo
+Hyundai,Creta,2024,70982,Diesel,Automatic,First Owner,1497,113,5,1295200,synthetic_demo
+Honda,City,2018,50057,Petrol,Automatic,First Owner,1498,119,5,667400,synthetic_demo
+Tata,Nexon,2020,179124,Diesel,Manual,First Owner,1199,118,5,500800,synthetic_demo
+Tata,Punch,2018,8912,CNG,Manual,Third Owner,1199,87,5,413400,synthetic_demo
+Toyota,Innova,2021,110017,Diesel,Automatic,First Owner,2393,148,7,1132500,synthetic_demo
+Mahindra,XUV300,2017,49055,Diesel,Automatic,First Owner,1497,115,5,701300,synthetic_demo
+Kia,Seltos,2015,118209,Diesel,Manual,First Owner,1497,113,5,483900,synthetic_demo
+Maruti,Swift,2017,62083,CNG,Manual,First Owner,1197,88,5,305200,synthetic_demo
+Maruti,Baleno,2020,137680,Petrol,Automatic,First Owner,1197,89,5,432600,synthetic_demo
+Maruti,Dzire,2022,42716,Petrol,Manual,First Owner,1197,89,5,529500,synthetic_demo
+Maruti,Wagon R,2021,44073,Petrol,Manual,Third Owner,998,66,5,367400,synthetic_demo
+Hyundai,i20,2019,151779,Diesel,Automatic,Third Owner,1197,87,5,369600,synthetic_demo
+Hyundai,Creta,2014,119281,Petrol,Automatic,First Owner,1497,113,5,435600,synthetic_demo
+Honda,City,2016,159037,Petrol,Automatic,First Owner,1498,119,5,398200,synthetic_demo
+Tata,Nexon,2019,13858,Petrol,Automatic,Second Owner,1199,118,5,657700,synthetic_demo
+Tata,Punch,2025,27670,CNG,Automatic,Second Owner,1199,87,5,861500,synthetic_demo
+Toyota,Innova,2023,14753,Diesel,Manual,First Owner,2393,148,7,1779400,synthetic_demo
+Mahindra,XUV300,2014,20219,Diesel,Manual,Second Owner,1497,115,5,510800,synthetic_demo
+Kia,Seltos,2023,26106,Petrol,Manual,First Owner,1497,113,5,1248900,synthetic_demo
+Maruti,Swift,2019,141381,Petrol,Automatic,First Owner,1197,88,5,290500,synthetic_demo
+Maruti,Baleno,2018,92700,Petrol,Automatic,First Owner,1197,89,5,366100,synthetic_demo
+Maruti,Dzire,2022,105335,CNG,Automatic,Second Owner,1197,89,5,464500,synthetic_demo
+Maruti,Wagon R,2021,43419,CNG,Manual,Second Owner,998,66,5,359900,synthetic_demo
+Hyundai,i20,2017,85325,Diesel,Manual,Second Owner,1197,87,5,412100,synthetic_demo
+Hyundai,Creta,2016,150518,Diesel,Automatic,Second Owner,1497,113,5,484600,synthetic_demo
+Honda,City,2025,183677,Petrol,Automatic,First Owner,1498,119,5,762500,synthetic_demo
+Tata,Nexon,2016,51254,Petrol,Automatic,Third Owner,1199,118,5,451600,synthetic_demo
+Tata,Punch,2015,40061,Petrol,Manual,First Owner,1199,87,5,353100,synthetic_demo
+Toyota,Innova,2020,145497,Petrol,Automatic,Third Owner,2393,148,7,849500,synthetic_demo
+Mahindra,XUV300,2021,102754,Petrol,Manual,First Owner,1497,115,5,756500,synthetic_demo
+Kia,Seltos,2021,47395,Diesel,Manual,First Owner,1497,113,5,1080500,synthetic_demo
+Maruti,Swift,2015,120444,CNG,Automatic,First Owner,1197,88,5,211900,synthetic_demo
+Maruti,Baleno,2024,126949,Petrol,Automatic,Second Owner,1197,89,5,554500,synthetic_demo
+Maruti,Dzire,2019,125026,CNG,Automatic,First Owner,1197,89,5,344700,synthetic_demo
+Maruti,Wagon R,2014,56349,Petrol,Automatic,First Owner,998,66,5,226800,synthetic_demo
+Hyundai,i20,2017,149369,Petrol,Manual,First Owner,1197,87,5,331900,synthetic_demo
+Hyundai,Creta,2016,121786,Petrol,Automatic,First Owner,1497,113,5,569100,synthetic_demo
+Honda,City,2025,122260,Diesel,Manual,First Owner,1498,119,5,974400,synthetic_demo
+Tata,Nexon,2017,65807,Diesel,Manual,First Owner,1199,118,5,496300,synthetic_demo
+Tata,Punch,2013,174383,CNG,Manual,First Owner,1199,87,5,173100,synthetic_demo
+Toyota,Innova,2025,127851,Petrol,Automatic,First Owner,2393,148,7,1415800,synthetic_demo
+Mahindra,XUV300,2013,8981,Diesel,Manual,Second Owner,1497,115,5,460200,synthetic_demo
+Kia,Seltos,2023,163614,Diesel,Manual,Second Owner,1497,113,5,769000,synthetic_demo
+Maruti,Swift,2013,16517,Petrol,Automatic,Second Owner,1197,88,5,244200,synthetic_demo
+Maruti,Baleno,2013,33060,CNG,Manual,Second Owner,1197,89,5,260100,synthetic_demo
+Maruti,Dzire,2023,41637,CNG,Automatic,First Owner,1197,89,5,614500,synthetic_demo
+Maruti,Wagon R,2021,113200,Petrol,Manual,First Owner,998,66,5,330200,synthetic_demo
+Hyundai,i20,2020,146627,Petrol,Automatic,Third Owner,1197,87,5,359200,synthetic_demo
+Hyundai,Creta,2018,101858,Diesel,Manual,First Owner,1497,113,5,623300,synthetic_demo
+Honda,City,2015,176255,Petrol,Automatic,First Owner,1498,119,5,342100,synthetic_demo
+Tata,Nexon,2017,172505,Petrol,Automatic,Fourth & Above,1199,118,5,304800,synthetic_demo
+Tata,Punch,2014,39350,Petrol,Automatic,First Owner,1199,87,5,312200,synthetic_demo
+Toyota,Innova,2024,56289,Petrol,Automatic,Third Owner,2393,148,7,1544100,synthetic_demo
+Mahindra,XUV300,2025,146352,Diesel,Automatic,First Owner,1497,115,5,987900,synthetic_demo
+Kia,Seltos,2016,97578,Petrol,Automatic,First Owner,1497,113,5,623300,synthetic_demo
+Maruti,Swift,2018,108863,CNG,Automatic,First Owner,1197,88,5,286200,synthetic_demo
+Maruti,Baleno,2023,134422,CNG,Automatic,Second Owner,1197,89,5,500900,synthetic_demo
+Maruti,Dzire,2013,116881,Petrol,Automatic,First Owner,1197,89,5,199700,synthetic_demo
+Maruti,Wagon R,2022,81500,CNG,Automatic,Second Owner,998,66,5,391100,synthetic_demo
+Hyundai,i20,2023,120367,Diesel,Automatic,First Owner,1197,87,5,692000,synthetic_demo
+Hyundai,Creta,2017,165179,Diesel,Automatic,Second Owner,1497,113,5,511200,synthetic_demo
+Honda,City,2012,23671,Diesel,Automatic,First Owner,1498,119,5,475000,synthetic_demo
+Tata,Nexon,2014,12163,Petrol,Automatic,First Owner,1199,118,5,447400,synthetic_demo
+Tata,Punch,2024,173125,CNG,Automatic,First Owner,1199,87,5,502600,synthetic_demo
+Toyota,Innova,2021,44222,Diesel,Automatic,First Owner,2393,148,7,1549500,synthetic_demo
+Mahindra,XUV300,2021,40095,Diesel,Automatic,First Owner,1497,115,5,934400,synthetic_demo
+Kia,Seltos,2013,10793,Petrol,Automatic,First Owner,1497,113,5,616200,synthetic_demo
+Maruti,Swift,2013,72623,CNG,Automatic,First Owner,1197,88,5,218800,synthetic_demo
+Maruti,Baleno,2023,132765,Petrol,Manual,First Owner,1197,89,5,463900,synthetic_demo
+Maruti,Dzire,2014,120683,Petrol,Automatic,Second Owner,1197,89,5,224100,synthetic_demo
+Maruti,Wagon R,2020,146126,CNG,Automatic,Third Owner,998,66,5,258500,synthetic_demo
+Hyundai,i20,2023,171169,Petrol,Automatic,First Owner,1197,87,5,490100,synthetic_demo
+Hyundai,Creta,2015,40405,Petrol,Automatic,First Owner,1497,113,5,626300,synthetic_demo
+Honda,City,2017,126527,Petrol,Manual,First Owner,1498,119,5,469200,synthetic_demo
+Tata,Nexon,2023,129479,Diesel,Automatic,Second Owner,1199,118,5,687000,synthetic_demo
+Tata,Punch,2017,172385,Petrol,Automatic,First Owner,1199,87,5,280300,synthetic_demo
+Toyota,Innova,2014,148520,Petrol,Manual,First Owner,2393,148,7,556700,synthetic_demo
+Mahindra,XUV300,2012,36548,Petrol,Automatic,First Owner,1497,115,5,412800,synthetic_demo
+Kia,Seltos,2023,63105,Diesel,Automatic,Second Owner,1497,113,5,1137100,synthetic_demo
+Maruti,Swift,2022,148399,CNG,Manual,Second Owner,1197,88,5,336000,synthetic_demo
+Maruti,Baleno,2013,135746,Petrol,Manual,First Owner,1197,89,5,209100,synthetic_demo
+Maruti,Dzire,2021,92504,Petrol,Manual,First Owner,1197,89,5,475900,synthetic_demo
+Maruti,Wagon R,2024,155197,CNG,Manual,Second Owner,998,66,5,338900,synthetic_demo
+Hyundai,i20,2022,11939,Diesel,Automatic,Second Owner,1197,87,5,746000,synthetic_demo
+Hyundai,Creta,2015,183566,Diesel,Automatic,First Owner,1497,113,5,426900,synthetic_demo
+Honda,City,2014,119239,Diesel,Automatic,First Owner,1498,119,5,400700,synthetic_demo
+Tata,Nexon,2014,85941,Diesel,Automatic,Fourth & Above,1199,118,5,308200,synthetic_demo
+Tata,Punch,2017,138998,Petrol,Automatic,First Owner,1199,87,5,298000,synthetic_demo
+Toyota,Innova,2019,68990,Petrol,Manual,First Owner,2393,148,7,1134500,synthetic_demo
+Mahindra,XUV300,2025,165317,Diesel,Manual,Fourth & Above,1497,115,5,721600,synthetic_demo
+Kia,Seltos,2025,89835,Diesel,Manual,Second Owner,1497,113,5,1210500,synthetic_demo
+Maruti,Swift,2020,126372,CNG,Automatic,First Owner,1197,88,5,317100,synthetic_demo
+Maruti,Baleno,2018,136499,CNG,Manual,First Owner,1197,89,5,306200,synthetic_demo
+Maruti,Dzire,2012,77755,CNG,Automatic,First Owner,1197,89,5,200700,synthetic_demo
+Maruti,Wagon R,2013,116965,Petrol,Automatic,Second Owner,998,66,5,170200,synthetic_demo
+Hyundai,i20,2017,15860,Diesel,Manual,First Owner,1197,87,5,470500,synthetic_demo
+Hyundai,Creta,2020,79655,Petrol,Automatic,First Owner,1497,113,5,908200,synthetic_demo
+Honda,City,2016,167379,Petrol,Manual,Fourth & Above,1498,119,5,294900,synthetic_demo
+Tata,Nexon,2024,92889,Diesel,Manual,First Owner,1199,118,5,903900,synthetic_demo
+Tata,Punch,2020,14552,Petrol,Manual,First Owner,1199,87,5,548800,synthetic_demo
+Toyota,Innova,2019,140139,Diesel,Manual,Second Owner,2393,148,7,827500,synthetic_demo
+Mahindra,XUV300,2017,164712,Diesel,Manual,First Owner,1497,115,5,439600,synthetic_demo
+Kia,Seltos,2025,82442,Diesel,Automatic,Second Owner,1497,113,5,1270200,synthetic_demo
+Maruti,Swift,2025,8361,CNG,Automatic,Second Owner,1197,88,5,725900,synthetic_demo
+Maruti,Baleno,2021,84655,Petrol,Automatic,First Owner,1197,89,5,534700,synthetic_demo
+Maruti,Dzire,2024,155643,Petrol,Manual,Second Owner,1197,89,5,408400,synthetic_demo
+Maruti,Wagon R,2022,166460,CNG,Manual,Second Owner,998,66,5,268100,synthetic_demo
+Hyundai,i20,2021,187637,Petrol,Manual,First Owner,1197,87,5,395900,synthetic_demo
+Hyundai,Creta,2014,112255,Petrol,Automatic,First Owner,1497,113,5,468500,synthetic_demo
+Honda,City,2019,20326,Petrol,Manual,First Owner,1498,119,5,839100,synthetic_demo
+Tata,Nexon,2019,141750,Diesel,Automatic,Third Owner,1199,118,5,462200,synthetic_demo
+Tata,Punch,2020,93738,CNG,Automatic,Second Owner,1199,87,5,421200,synthetic_demo
+Toyota,Innova,2015,77139,Diesel,Manual,Third Owner,2393,148,7,703200,synthetic_demo
+Mahindra,XUV300,2024,79760,Petrol,Automatic,First Owner,1497,115,5,1041500,synthetic_demo
+Kia,Seltos,2024,75685,Diesel,Manual,First Owner,1497,113,5,1251000,synthetic_demo
+Maruti,Swift,2018,94474,Petrol,Automatic,First Owner,1197,88,5,345100,synthetic_demo
+Maruti,Baleno,2013,94797,CNG,Automatic,Second Owner,1197,89,5,218500,synthetic_demo
+Maruti,Dzire,2025,145184,CNG,Automatic,First Owner,1197,89,5,545400,synthetic_demo
+Maruti,Wagon R,2021,66726,Petrol,Manual,Second Owner,998,66,5,367300,synthetic_demo
+Hyundai,i20,2022,65036,Petrol,Manual,First Owner,1197,87,5,669200,synthetic_demo
+Hyundai,Creta,2013,182570,Petrol,Manual,Fourth & Above,1497,113,5,271300,synthetic_demo
+Honda,City,2014,110668,Diesel,Automatic,Second Owner,1498,119,5,413800,synthetic_demo
+Tata,Nexon,2016,88192,Diesel,Manual,Third Owner,1199,118,5,373300,synthetic_demo
+Tata,Punch,2021,64875,Petrol,Manual,First Owner,1199,87,5,567300,synthetic_demo
+Toyota,Innova,2012,108069,Diesel,Manual,Third Owner,2393,148,7,491700,synthetic_demo
+Mahindra,XUV300,2016,13821,Petrol,Automatic,First Owner,1497,115,5,599000,synthetic_demo
+Kia,Seltos,2017,78596,Diesel,Automatic,Third Owner,1497,113,5,587400,synthetic_demo
+Maruti,Swift,2020,126688,CNG,Manual,Second Owner,1197,88,5,292500,synthetic_demo
+Maruti,Baleno,2023,124301,CNG,Manual,First Owner,1197,89,5,489100,synthetic_demo
+Maruti,Dzire,2016,152840,Petrol,Manual,Second Owner,1197,89,5,223400,synthetic_demo
+Maruti,Wagon R,2018,116119,CNG,Manual,First Owner,998,66,5,235700,synthetic_demo
+Hyundai,i20,2014,129161,Diesel,Manual,First Owner,1197,87,5,266600,synthetic_demo
+Hyundai,Creta,2019,73990,Diesel,Automatic,Second Owner,1497,113,5,802600,synthetic_demo
+Honda,City,2016,175359,Diesel,Manual,First Owner,1498,119,5,354600,synthetic_demo
+Tata,Nexon,2016,45868,Diesel,Automatic,Second Owner,1199,118,5,527500,synthetic_demo
+Tata,Punch,2016,100349,Petrol,Manual,Third Owner,1199,87,5,269500,synthetic_demo
+Toyota,Innova,2019,162790,Diesel,Automatic,Second Owner,2393,148,7,857300,synthetic_demo
+Mahindra,XUV300,2024,144907,Petrol,Manual,Second Owner,1497,115,5,777000,synthetic_demo
+Kia,Seltos,2024,25461,Diesel,Automatic,First Owner,1497,113,5,1524600,synthetic_demo
